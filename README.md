@@ -4,8 +4,7 @@ This is a pretty simple Alexa Skill that calculates a number for a given date (a
 Currently it's only available in pt-BR.
 
 # Get the Skill
-
-It's still under review
+https://www.amazon.com.br/Marcelo-Kopmann-Guia-dos-N%C3%BAmeros/dp/B08VWGQ7J3/
 
 # Usage
 
